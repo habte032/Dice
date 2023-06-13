@@ -5,8 +5,8 @@ This app has the following features:
 * A dice that changes automatically when you touch the image.
 * A simple and easy-to-use interface.
 * The ability to roll multiple dice at once.!
-*  [dice](https://github.com/habte032/Dice/assets/101426508/728959f8-2608-48d8-8e8b-2214f1ab0e92)
 
+## Screenshot
 
 ![dice](https://github.com/habte032/Dice/assets/101426508/d6569fd0-0b7f-445a-9f4a-edc05f378694)
 
